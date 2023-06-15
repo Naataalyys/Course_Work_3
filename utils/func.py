@@ -9,9 +9,9 @@ def read_json(file_name):
         return json.load(file)
 
 
-def create_ex():
+def create_ex(filename):
     """Создаёт экземпляр класса"""
-    json_file = read_json(os.path.join('utils', 'operations.json'))
+    json_file = read_json(filename)
 
     ex_class = []
     for num, oper in enumerate(json_file):
