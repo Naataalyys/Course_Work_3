@@ -1,0 +1,6 @@
+.idea/
+/venv/
+/__pycache__/
+utils/__pycache__/classes.cpython-311.pyc
+utils/__pycache__/func.cpython-311.pyc
+
