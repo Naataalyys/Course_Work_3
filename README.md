@@ -17,8 +17,8 @@ ___
 1. Откройте проект с помощью Get from VCS.
 2. Введите ссылку на удалённый репозиторий. 
     ```
-    git@github.com:AndrewDyakonov/course_work_3_release.git
-   ```
+    https://github.com/Naataalyys/Course_Work_3.git
+    ```
 3. Создайте и активируйте виртуальное окружение.
     ```
     python3 -m venv venv
